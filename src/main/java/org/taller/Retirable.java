@@ -1,0 +1,5 @@
+package org.taller;
+
+public interface Retirable {
+    void retirar(double monto);
+}
